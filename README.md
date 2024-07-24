@@ -1,0 +1,1 @@
+This project is a simple JavaScript-based car racing game where players navigate their car using arrow keys to avoid enemy cars. The game features dynamic obstacles, a score counter, and a start screen, all rendered using HTML, CSS, and JavaScript.
